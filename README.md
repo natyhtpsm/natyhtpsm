@@ -4,8 +4,9 @@
   
   
   ## LANGUAGES AND TOOLS:
-[![My Skills](https://skills.thijs.gg/icons?i=matlab,c,html,css,arduino,ps,pr,&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=matlab,c,arduino,ps,pr,&theme=light)](https://skills.thijs.gg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natyhtpsm)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## CONNECT WITH ME:
