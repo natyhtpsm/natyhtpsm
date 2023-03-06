@@ -4,7 +4,7 @@
   
   
   ## LANGUAGES AND TOOLS:
-[![My Skills](https://skills.thijs.gg/icons?i=matlab,c,arduino,ps,pr,&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=javascript, html, css, matlab,c,arduino,ps,pr,&theme=light)](https://skills.thijs.gg)
   ##
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natyhtpsm&layout=compact&langs_count=7&theme=jolly"/>
 </div>
