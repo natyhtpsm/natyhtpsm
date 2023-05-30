@@ -1,27 +1,34 @@
   - 👋 Hello there! I'm Nathália Assis
   - 📧 Contact me by e-mail: nathaliapimenteldeassis@gmail.com
   - 💪 Studying Eletronic Engineering
-  
-  
-  ## LANGUAGES AND TOOLS:
-[![My Skills](https://skills.thijs.gg/icons?i=javascript,matlab,c,arduino,ps,pr,&theme=light)](https://skills.thijs.gg)
-  ##
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natyhtpsm&layout=compact&langs_count=7&theme=jolly"/>
-</div>
 
 
 ## CONNECT WITH ME:
-<div>
-  <a href="https://www.instagram.com/nathal_p/" target="_blank"><img height="40" width="40"
-      src="https://imagensemoldes.com.br/wp-content/uploads/2020/04/%C3%8Dcone-Instagram-PNG-1024x1024.png"
-      target="_blank"></a>
-  <a href="mailto:nathaliapimenteldeassis@gmail.com"><img height="40" width="40"
-      src="https://cdn-icons-png.flaticon.com/512/732/732223.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nath%C3%A1lia-assis-4ba1671ab/" target="_blank"><img height="40" width="40"
-      src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"></a>
-  <div style="display: inline_block"><br>
-  
-<div align="center">
-  <a href="https://github.com/natyhtpsm">
-</div>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathal_p/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/nath%C3%A1lia-assis-4ba1671ab/)]
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nathaliaassisp@gmail.com)
+
+#### Front-end:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![StyledComponents](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+
+
+#### Ferramentas:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Discord badge](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+
+   
 
