@@ -30,5 +30,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
-   
+###Estatísticas :rocket:
+
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=natyhtpsm&show_icons=true&count_private=true&hide=stars,issues" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natyhtpsm&layout=compact" />
 
