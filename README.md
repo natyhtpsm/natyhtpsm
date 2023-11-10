@@ -1,7 +1,7 @@
   - 👋 Hello there! I'm Nathália Assis
   - 📧 Contact me by e-mail: nathaliapimenteldeassis@gmail.com
   - 💪 Studying Computer Engineering
-
+  - :house_with_garden: Brasília   
 
 ## CONNECT WITH ME:
 
