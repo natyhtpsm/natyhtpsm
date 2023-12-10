@@ -17,6 +17,14 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![StyledComponents](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 
+#### Back-end:
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-00000F?style=flat-square&logo=nosql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
 
 #### Ferramentas:
 
